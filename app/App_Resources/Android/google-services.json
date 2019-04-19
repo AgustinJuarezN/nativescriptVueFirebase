@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "241859747030",
+    "firebase_url": "https://meetupjs-5f80f.firebaseio.com",
+    "project_id": "meetupjs-5f80f",
+    "storage_bucket": "meetupjs-5f80f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241859747030:android:6669f6ebf18d659e",
+        "android_client_info": {
+          "package_name": "com.nativescript.jsMeetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241859747030-2s6mla3nrmrcufhra18nn4g1aqt40o1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Ac43Nc5mW3sa-ayT0tzgxXfEMuZT6X4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
